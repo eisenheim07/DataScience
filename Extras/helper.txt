@@ -1,0 +1,27 @@
+VARIANCE => TRAIN DATASET
+BIAS =>	TEST DATASET
+
+whenever we have an OVERFIT model => it is likely to have HIGH VARIANCE.
+when we have UNDERFIT model => it is likely to have HIGH BIAS.
+
+whenever we have LOW VARIANCE and LOW BIAS we have BALANCED model.
+
+TECHNIQUES to get BALANCED model
+CROSS VALIDATION, REGULARIZATION, DIMENSION REDUCTIONALITY, BAGGING & BOOSTING
+
+######################################################################################################
+
+FOR HIDDEN LAYERS WE USE RELU AS AN ACTIVATION FUNCTION BY DEFAULT
+FOR LOGISTIC REGRESSION WE USE LOGLOSS
+
+######################################################################################################
+
+CONVOLUTIONAL NEURAL NETWORK(CNN) 
+1.) filters, filter_size, activation, input_shape
+2.) padding, stride (optional)
+3.) MAXPOOLING LAYER
+4.) DATA AUGMENTATION LAYER
+
+######################################################################################################
+
+NOTE: => LEARN TRANSFER LEARNING & MANAGE IMBALANCES DATASETS
